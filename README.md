@@ -61,14 +61,6 @@ Minha jornada na programação me proporcionou conhecimentos em diversas áreas.
 
 </div>
 
----
-
-## 🚀 Meus Projetos
-
-Explore alguns dos meus projetos e veja as tecnologias em ação. (Em breve, mais projetos aqui!)
-
-- [Nome do Projeto 1](Link para o Projeto 1) - Breve descrição do projeto e tecnologias usadas (ex: Java, SQL)
-- [Nome do Projeto 2](Link para o Projeto 2) - Breve descrição do projeto e tecnologias usadas (ex: React, JavaScript)
 
 ---
 
