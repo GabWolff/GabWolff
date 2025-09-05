@@ -20,10 +20,24 @@
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabWolff&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabWolff&theme=radical" height="160"/>
+</p>
+
+---
+
+### 📈 Atividade de Contribuição
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabWolff&theme=react-dark&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+### 🐍 Minhas Contribuições
+<p align="center">
+  <img src="https://github.com/GabWolff/GabWolff/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
