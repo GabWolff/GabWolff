@@ -52,7 +52,7 @@
 
 ## 📫 Contato
 - 📧 Email: **gabrielbuskew@gmail.com**  
-- 💼 LinkedIn: [Gabriel Wolff](www.linkedin.com/in/gabriel-wolff-9768b3357)  
+- 💼 LinkedIn: www.linkedin.com/in/gabriel-wolff-9768b3357
 
 ---
 
