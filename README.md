@@ -51,8 +51,8 @@
 ---
 
 ## 📫 Contato
-- 📧 Email: **seuemail@email.com**  
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com)  
+- 📧 Email: **gabrielbuskew@gmail.com**  
+- 💼 LinkedIn: [Seu LinkedIn](www.linkedin.com/in/gabriel-wolff-9768b3357)  
 
 ---
 
