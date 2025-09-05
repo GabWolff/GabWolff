@@ -24,6 +24,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabWolff&layout=compact&theme=tokyonight" />
 </div>
 
+## 🐍 Snake eating my contributions
+![Snake animation](https://raw.githubusercontent.com/GabWolff/GabWolff/output/snake.svg)
+
+
 ---
 
 ## 🐍 Minhas contribuições
