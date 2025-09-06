@@ -11,34 +11,36 @@
 
 ## 💡 Habilidades e Tecnologias
 
+## 💡 Habilidades e Tecnologias
+
 Minha jornada na programação me proporcionou conhecimentos em diversas áreas. Abaixo, as tecnologias e linguagens que venho explorando e aprimorando:
 
-<div align="center">
-  
-### Linguagens de Programação
+<p align="left">
+  <strong>Linguagens:</strong>  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white )
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white )
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white )
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black )
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+<p align="left">
+  <strong>Desenvolvimento Web:</strong>  
 
-### Desenvolvimento Web
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+<p align="left">
+  <strong>Banco de Dados:</strong>  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white )
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white )
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB )
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+<p align="left">
+  <strong>Outras Habilidades:</strong>  
 
-### Banco de Dados
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white )
-
-### Outras Habilidades
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white )
-![Redes](https://img.shields.io/badge/Networking-0088CC?style=for-the-badge&logo=cisco&logoColor=white )
-
-</div>
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0088CC?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 ---
 
 ## 📊 Estatísticas do GitHub
