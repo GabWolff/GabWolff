@@ -43,13 +43,21 @@ Minha jornada na programação me proporcionou conhecimentos em diversas áreas.
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabWolff&show_icons=true&theme=tokyonight&hide_border=false&count_private=true )  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabWolff&layout=compact&theme=tokyonight&hide_border=false )  
-![GitHub Streak](https://streak-stats.demolab.com?user=GabWolff&theme=tokyonight&hide_border=false )  
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GabWolff&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Estatísticas do GitHub de GabWolff" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabWolff&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens mais usadas por GabWolff" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=GabWolff&theme=tokyonight&hide_border=false" alt="Sequência de contribuições de GabWolff" />
+    </td>
+  </tr>
+</table>
 
 ---
 
