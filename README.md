@@ -1,11 +1,11 @@
 <!-- Capa estilosa -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GabWolff&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Capa de perfil do Gabriel Wolff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=30,90,288,0.3,0.9&height=200&section=header&text=Gabriel%20Wolff&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Capa de perfil do Gabriel Wolff"/>
 </p>
 
 # 👋 Olá, eu sou o Gabriel Wolff!
 
-🚀 Desenvolvedor em aprendizado e apaixonado por tecnologia. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS )** e sempre em busca de evolução, desafios e contribuir com a comunidade.
+Desenvolvedor apaixonado por tecnologia e estudante de **Análise e Desenvolvimento de Sistemas (ADS )**. Meu foco é transformar ideias em soluções práticas e eficientes. Estou sempre explorando novas tecnologias para aprimorar minhas habilidades e contribuir em projetos desafiadores.
 
 ---
 
