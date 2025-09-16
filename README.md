@@ -8,26 +8,6 @@ Desenvolvedor apaixonado por tecnologia e estudante de **Análise e Desenvolvime
 
 ---
 
-## 🚀 Meus Projetos em Destaque
-
-Aqui estão alguns dos projetos que mais me orgulho e que demonstram minhas habilidades. Por favor, forneça os links e descrições para que eu possa preencher esta seção:
-
-*   **[Nome do Projeto 1](link-para-o-repo)**
-    *   Uma breve descrição do projeto, o que ele faz e qual problema ele resolve.
-    *   **Tecnologias:** `Tecnologia1`, `Tecnologia2`
-    *   [Ver Demo](link-para-demo-se-existir)
-
-*   **[Nome do Projeto 2](link-para-o-repo)**
-    *   Descrição do projeto 2.
-    *   **Tecnologias:** `Tecnologia3`, `Tecnologia4`
-    *   [Ver Demo](link-para-demo-se-existir)
-
-*   **[Nome do Projeto 3](link-para-o-repo)**
-    *   Descrição do projeto 3.
-    *   **Tecnologias:** `Tecnologia5`, `Tecnologia6`
-    *   [Ver Demo](link-para-demo-se-existir)
-
----
 
 ## 💡 Habilidades e Tecnologias
 
