@@ -71,7 +71,7 @@ Fique à vontade para entrar em contato comigo:
   ⚡ *Obrigado por visitar meu perfil!* ⚡
 </p>
 
-<!-- Rodapé estiloso -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Rodapé do perfil"/>
 </p>
