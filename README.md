@@ -48,6 +48,11 @@ Minha jornada na programação me proporcionou conhecimentos em diversas áreas.
 
 ---
 
+![Snake animation](https://github.com/GabWolff/GabWolff/blob/output/snake.svg)
+
+
+---
+
 ## 📈 Contribuições Recentes
 
 <div align="center">
